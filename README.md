@@ -1,11 +1,11 @@
 # Motus Game in Spanish
 
 ## Project Overview
-Motus Game in Spanish is a web-based word-guessing game inspired by the popular French game "Motus." This project allows users to guess Spanish words within a limited number of attempts, providing hints for correct letters and positions. The game is built using modern web technologies, including React and Vite.
+Motus Game is a web-based word-guessing game inspired by the popular French game "Motus." This project allows users to guess words from a customizable word list within a limited number of attempts, providing hints for correct letters and positions. The game is built using modern web technologies, including React and Vite.
 
 ## Features
 - Interactive word-guessing gameplay.
-- Support for Spanish vocabulary.
+- Support for customizable word lists.
 - Responsive design for desktop and mobile devices.
 - Fast and lightweight thanks to Vite.
 
@@ -47,7 +47,7 @@ This project uses Vite for development and build configuration. You can customiz
 - `index.css`: Global styles.
 - `languages.js`: Language-related utilities.
 - `utils.js`: Helper functions.
-- `words.js`: Spanish word list.
+- `words.js`: Default word list (can be customized).
 - `vite.config.js`: Vite configuration.
 
 ## Contributing
