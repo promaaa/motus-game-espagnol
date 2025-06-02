@@ -1,4 +1,4 @@
-# Motus Game 🎯
+# Motus Game 🇪🇸
 
 ## Project Overview
 Motus Game is a web-based word-guessing game inspired by the popular French game "Motus." This project allows users to guess words from a customizable word list within a limited number of attempts, providing hints for correct letters and positions. The game is built using modern web technologies, including React and Vite.
